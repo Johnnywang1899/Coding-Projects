@@ -1,0 +1,41 @@
+S:\AECCommon\NPPI\Individual Folders\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\bin\Debug\New_Product_Build_Tool.exe.config
+S:\AECCommon\NPPI\Individual Folders\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\bin\Debug\New_Product_Build_Tool.exe
+S:\AECCommon\NPPI\Individual Folders\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\bin\Debug\New_Product_Build_Tool.pdb
+S:\AECCommon\NPPI\Individual Folders\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\bin\Debug\New_Product_Build_Tool.xml
+S:\AECCommon\NPPI\Individual Folders\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\obj\Debug\New_Product_Build_Tool.vbprojResolveAssemblyReference.cache
+S:\AECCommon\NPPI\Individual Folders\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\obj\Debug\New_Product_Build_Tool.vbproj.ResolveComReference.cache
+S:\AECCommon\NPPI\Individual Folders\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\obj\Debug\New_Product_Build_Tool.Resources.resources
+S:\AECCommon\NPPI\Individual Folders\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\obj\Debug\New_Product_Build_Tool.vbproj.GenerateResource.Cache
+S:\AECCommon\NPPI\Individual Folders\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\obj\Debug\New_Product_Build_Tool.exe
+S:\AECCommon\NPPI\Individual Folders\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\obj\Debug\New_Product_Build_Tool.xml
+S:\AECCommon\NPPI\Individual Folders\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\obj\Debug\New_Product_Build_Tool.pdb
+S:\AECCommon\NPPI\Individual Folders\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\bin\Debug\New_Product_Build_Tool.exe.manifest
+S:\AECCommon\NPPI\Individual Folders\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\bin\Debug\New_Product_Build_Tool.application
+S:\AECCommon\NPPI\Individual Folders\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\obj\Debug\New_Product_Build_Tool.exe.manifest
+S:\AECCommon\NPPI\Individual Folders\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\obj\Debug\New_Product_Build_Tool.application
+S:\AECCommon\NPPI\Individual Folders\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\obj\Debug\New_Product_Build_Tool.New_Product_Build_Tool.resources
+W:\_AAM\S\AECCommon\NPPI\Individual Folders\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\bin\Debug\New_Product_Build_Tool.exe.config
+W:\_AAM\S\AECCommon\NPPI\Individual Folders\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\obj\Debug\New_Product_Build_Tool.vbproj.ResolveComReference.cache
+W:\_AAM\S\AECCommon\NPPI\Individual Folders\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\obj\Debug\New_Product_Build_Tool.exe
+W:\_AAM\S\AECCommon\NPPI\Individual Folders\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\obj\Debug\New_Product_Build_Tool.xml
+W:\_AAM\S\AECCommon\NPPI\Individual Folders\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\obj\Debug\New_Product_Build_Tool.pdb
+W:\_AAM\S\AECCommon\NPPI\Individual Folders\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\bin\Debug\New_Product_Build_Tool.exe.manifest
+W:\_AAM\S\AECCommon\NPPI\Individual Folders\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\bin\Debug\New_Product_Build_Tool.application
+W:\_AAM\S\AECCommon\NPPI\Individual Folders\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\bin\Debug\New_Product_Build_Tool.exe
+W:\_AAM\S\AECCommon\NPPI\Individual Folders\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\bin\Debug\New_Product_Build_Tool.pdb
+W:\_AAM\S\AECCommon\NPPI\Individual Folders\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\bin\Debug\New_Product_Build_Tool.xml
+W:\_AAM\S\AECCommon\NPPI\Individual Folders\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\obj\Debug\New_Product_Build_Tool.vbprojResolveAssemblyReference.cache
+W:\_AAM\S\AECCommon\NPPI\Individual Folders\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\obj\Debug\New_Product_Build_Tool.New_Product_Build_Tool.resources
+W:\_AAM\S\AECCommon\NPPI\Individual Folders\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\obj\Debug\New_Product_Build_Tool.Resources.resources
+W:\_AAM\S\AECCommon\NPPI\Individual Folders\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\obj\Debug\New_Product_Build_Tool.vbproj.GenerateResource.Cache
+W:\_AAM\S\AECCommon\NPPI\Individual Folders\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\obj\Debug\New_Product_Build_Tool.exe.manifest
+W:\_AAM\S\AECCommon\NPPI\Individual Folders\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\obj\Debug\New_Product_Build_Tool.application
+V:\CA01\Common\Engineering & Development\Individual Folders (3)\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\bin\Debug\New_Product_Build_Tool.exe.config
+V:\CA01\Common\Engineering & Development\Individual Folders (3)\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\obj\Debug\New_Product_Build_Tool.vbproj.ResolveComReference.cache
+V:\CA01\Common\Engineering & Development\Individual Folders (3)\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\obj\Debug\New_Product_Build_Tool.exe
+V:\CA01\Common\Engineering & Development\Individual Folders (3)\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\obj\Debug\New_Product_Build_Tool.xml
+V:\CA01\Common\Engineering & Development\Individual Folders (3)\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\obj\Debug\New_Product_Build_Tool.pdb
+V:\CA01\Common\Engineering & Development\Individual Folders (3)\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\obj\Debug\New_Product_Build_Tool.vbprojResolveAssemblyReference.cache
+V:\CA01\Common\Engineering & Development\Individual Folders (3)\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\obj\Debug\New_Product_Build_Tool.New_Product_Build_Tool.resources
+V:\CA01\Common\Engineering & Development\Individual Folders (3)\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\obj\Debug\New_Product_Build_Tool.Resources.resources
+V:\CA01\Common\Engineering & Development\Individual Folders (3)\JWang\VBA Macro Project (Johnny)\New_Product_Build_Tool\New_Product_Build_Tool\obj\Debug\New_Product_Build_Tool.vbproj.GenerateResource.Cache
